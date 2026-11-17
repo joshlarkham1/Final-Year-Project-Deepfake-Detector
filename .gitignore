@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Data and trained weights (too large / not ours to redistribute)
+dataset/
+*.pt
+
+# Personal course notes
+learning materials/
+
+# Editor / OS
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
